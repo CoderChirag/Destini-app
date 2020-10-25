@@ -1,4 +1,4 @@
-# Destini ![icon](https://github.com/CoderChirag/Destini-app/blob/master/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png)
+# Destini ![icon](https://github.com/CoderChirag/Destini-app/blob/master/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png)
 
 ## Our Goal
 
